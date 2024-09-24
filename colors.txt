@@ -4,4 +4,4 @@ yellow
 green
 voilet
 pink
-purple
+voilet
